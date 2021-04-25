@@ -1,1 +1,3 @@
-# This site is under construction.
+---
+layout: home
+---
