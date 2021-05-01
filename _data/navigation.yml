@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   nav:
     - title: "About Us"
       section: services
-    - title: "Portfolio"
+    - title: "Photo Gallery"
       section: portfolio
     - title: "Contact"
       section: contact
