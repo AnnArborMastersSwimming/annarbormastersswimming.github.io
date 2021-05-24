@@ -40,12 +40,20 @@ Ann Arbor, MI 48108<br>
 M-F 5:30-7:00AM<br>"
     section: about
 
+  coach:
+    title: "Our Coach"
+    section: coach
+    image: "assets/img/coach.jpg"
+
+
+
   portfolio:
     title: "Photo Gallery"
     text: "Here are some photos"
     section: portfolio
     closebutton: "Close"
 
+    
   contact:
     title: "Contact Us"
     text: ""
