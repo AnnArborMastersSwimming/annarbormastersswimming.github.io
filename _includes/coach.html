@@ -6,9 +6,11 @@
             </div>
           </div>
       <div class="row">
-        <div class="col-sm-4">
+        <div class="col">
               <img class="img-fluid d-block mx-auto" src="{{ site.data.sitetext[site.locale].coach.image }}" alt="">
         </div>
+        <div class="col text-left mx-auto">
+            <div class="large text-muted">{{ site.data.sitetext[site.locale].coach.text | markdownify }}</div>
       </div>
     </div> 
 </section>     
