@@ -13,6 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "About Us"
       section: about
+    - title: "Our Coach"
+      section: coach
     - title: "Photo Gallery"
       section: portfolio
 
