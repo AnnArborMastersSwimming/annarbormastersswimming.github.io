@@ -1,10 +1,10 @@
 ---
 title: Swimmers
-image: "assets/img/portfolio/swimmers1.jpg"
+image: "assets/img/portfolio/GTCC2.jpg"
 
 caption:
-  title: Swimmers
-  thumbnail: "assets/img/portfolio/swimmers1_thumbnail.jpg"
+  title: 
+  thumbnail: "assets/img/portfolio/GTCC2.jpg"
 ---
 
 
