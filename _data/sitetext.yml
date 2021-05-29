@@ -51,11 +51,14 @@ designated USMS Masters Level II coach.  Coach Don has prepared the team for win
 at State and national competitions and he has won the MI-Masters, USMS Coach of the 
 Year award. Coach Don welcomes everyone.  We are appreciative of his expertise."
 
-  waiver:
-    title: "Waivers and Membership"
-    text: "Everyone swimming with Ann Arbor Masters Swimming needs to do the following:<br><br>
+  info:
+    title: "Information"
+    waiver_text: "Everyone swimming with Ann Arbor Masters Swimming needs to do the following:<br>
    1. Fill out a Ann Arbor Masters Swimming Waiver [Form](https://forms.gle/brqVFj8Hs4sCET1e8)<br>  
    2. Register for United States Masters Swimming at [USMS](https://www.usms.org/join-usms/join-or-renew)<br>"
+    org_text: "Ann Arbor Masters Swimming, Inc. was officially formed as a 501c (3) non-profit in February, 2021. More information coming soon.<br>"
+    merch_text: "Link for ordering Ann Arbor Masters Swimming Gear coming soon"
+
 
   portfolio:
     title: "Photo Gallery"

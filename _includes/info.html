@@ -1,0 +1,24 @@
+<section class="page-section" id="{{ site.data.sitetext[site.locale].info.section | default: "info" }}">
+    <div class="container">
+        <div class="row">
+         <div class="col-lg-12 text-center">
+           <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].info.title }}</h2>
+         </div>
+        </div>
+        <div class="row">
+          <div class="col text-left mx-auto">
+            <div class="large text-muted">{{ site.data.sitetext[site.locale].info.waiver_text | markdownify }}</div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col text-left mx-auto">
+            <div class="large text-muted">{{ site.data.sitetext[site.locale].info.org_text | markdownify }}</div>
+          </div>
+        </div>
+        <div class="row">
+            <div class="col text-left mx-auto">
+              <div class="large text-muted">{{ site.data.sitetext[site.locale].info.merch_text | markdownify }}</div>
+            </div>
+          </div>
+    </div>
+</section> 
