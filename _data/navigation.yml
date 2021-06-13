@@ -17,6 +17,8 @@ en: &DEFAULT_EN
       section: coach
     - title: "Info"
       section: info
+    - title: "Calendar"
+      section: calendar
     - title: "Photo Gallery"
       section: portfolio
 

@@ -66,6 +66,25 @@ Year award. Coach Don welcomes everyone.  We are appreciative of his expertise."
     section: portfolio
     closebutton: "Close"
 
+  calendar:
+    title: "Calendar"
+    desc: "Open Water Swims 2021"
+    section: calendar
+    events:
+      - title: "Irene's Dream Swim"
+        desc: "A 5k or 2k event, Sunday Jun 20th! At Pontiac Lake Recreation Area<br>
+        [Link](https://irenesdreamswim.com/?fbclid=IwAR1WFGbSu-qdofQdCdkE8amOJ9XSI46SpkM9eSJhTfph3zDhPV39sdWuGng)"
+      - title: "The YMCA Goguac Lake Swim"
+        desc: "In Battle Creek on Saturday, July  10th<br>
+        [Link](https://runsignup.com/Race/MI/Howell/HowellIndependenceAquathlonOpenWaterSwim)"
+      - title: "2021 Jim Brogan Classic"
+        desc: "Saturday July 17 Cleveland Ohio<br>
+        [Link](https://www.clubassistant.com/club/meet_information.cfm?c=1236&smid=13522)"
+      - title: "Swim to the Moon"
+        desc: "Sunday August 15. Ann Arbor Masters has 5K and 10K teams!. Team discount available<br>
+        [Link](https://runsignup.com/Race/MI/Gregory/SwimTotheMoon?rsus=100-203-96d61145-2a3e-42ab-af63-53aeef3e6771)"
+    
+
   footer:
     legal: "Privacy Policy"
 
