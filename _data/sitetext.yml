@@ -13,8 +13,6 @@ en: &DEFAULT_EN
   header:
     title: Ann Arbor Masters Swimming
     text: Welcome!
-    button: Tell Me More
-    buttonlink: "#services"
 
   about:
     title: "About us"
