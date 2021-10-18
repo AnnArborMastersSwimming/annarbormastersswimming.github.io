@@ -16,6 +16,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About us"
+    image: "assets/img/team_summer_2021.jpg"
     text: "Ann Arbor Masters Swimming (A2MS) has been in existence for the past 
 30 years located in Ann Arbor, Michigan.  There has been various coaches, 
 pools and accommodations throughout the years.  Our workout group consists 
@@ -63,29 +64,7 @@ Year award. Coach Don welcomes everyone.  We are appreciative of his expertise."
     title: "Photo Gallery"
     text: "Here are some photos"
     section: portfolio
-    closebutton: "Close"
-
-  calendar:
-    title: "Calendar"
-    desc: "Open Water Swims 2021"
-    section: calendar
-    events:
-      - title: "Motor City Mile Open Water Swim"
-        desc: "Friday July 9, 2021 Detroit<br>
-        [Link](https://www.swimacrossamerica.org/site/TR/OpenWater/Detroit?pg=entry&fr_id=5762)"
-      - title: "The YMCA Goguac Lake Swim"
-        desc: "In Battle Creek on Saturday, July  10th<br>
-        [Link](https://runsignup.com/Race/MI/BattleCreek/TheYMCAGoguacLakeSwim)"
-      - title: "Howell Aquathlon"
-        desc: "Howell MI, Sunday July 11th<br>
-        [Link](https://runsignup.com/Race/MI/Howell/HowellIndependenceAquathlonOpenWaterSwim)"
-      - title: "2021 Jim Brogan Classic"
-        desc: "Saturday July 17 Cleveland Ohio<br>
-        [Link](https://www.clubassistant.com/club/meet_information.cfm?c=1236&smid=13522)"
-      - title: "Swim to the Moon"
-        desc: "Sunday August 15. Ann Arbor Masters has 5K and 10K teams!. Team discount available<br>
-        [Link](https://runsignup.com/Race/MI/Gregory/SwimTotheMoon?rsus=100-203-96d61145-2a3e-42ab-af63-53aeef3e6771)"
-    
+    closebutton: "Close"    
 
   footer:
     legal: "Privacy Policy"
