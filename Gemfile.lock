@@ -72,6 +72,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 2.0)
+  jekyll (~> 4.2.0)
   jekyll-agency!
   jekyll-email-protect
   rake (~> 13.0)
