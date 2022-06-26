@@ -1,24 +1,35 @@
-<section class="page-section" id="{{ site.data.sitetext[site.locale].info.section | default: "info" }}">
-    <div class="container">
-        <div class="row">
-         <div class="col-lg-12 text-center">
-           <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].info.title }}</h2>
-         </div>
-        </div>
-        <div class="row">
-          <div class="col text-left mx-auto">
-            <div class="large text-muted">{{ site.data.sitetext[site.locale].info.waiver_text | markdownify }}</div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col text-left mx-auto">
-            <div class="large text-muted">{{ site.data.sitetext[site.locale].info.org_text | markdownify }}</div>
-          </div>
-        </div>
-        <div class="row">
-            <div class="col text-left mx-auto">
-              <div class="large text-muted">{{ site.data.sitetext[site.locale].info.merch_text | markdownify }}</div>
-            </div>
-          </div>
+<section class="page-section" id="{{ site.data.sitetext[site.locale].info.section | default: " info" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].info.try_us_title }}</h2>
+      </div>
     </div>
-</section> 
+    <div class="row">
+      <div class="col text-left mx-auto">
+        <div class="large text-muted">{{ site.data.sitetext[site.locale].info.try_us_text | markdownify }}</div>
+        <a href="mailto:{{ site.email | encode_email }}" title="Contact us">Contact us for more info</a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].info.title }}</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col text-left mx-auto">
+        <div class="large text-muted">{{ site.data.sitetext[site.locale].info.waiver_text | markdownify }}</div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col text-left mx-auto">
+        <div class="large text-muted">{{ site.data.sitetext[site.locale].info.org_text | markdownify }}</div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col text-left mx-auto">
+        <div class="large text-muted">{{ site.data.sitetext[site.locale].info.merch_text | markdownify }}</div>
+      </div>
+    </div>
+  </div>
+</section>
