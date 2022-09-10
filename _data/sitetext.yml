@@ -18,21 +18,28 @@ en: &DEFAULT_EN
     title: "About us"
     image: "assets/img/team_summer_2021.jpg"
     text: "Ann Arbor Masters Swimming (A2MS) has been in existence for the past 30 years located in Ann Arbor, Michigan. Our stellar Coach Don Swalwell is a U.S. Masters Swimming Certified Level III Coach and former Eastern Michigan University swimmer. 
-    He has been with the group for almost 30 years and advances the health and wellness of all swimmers on the team. The workout group consists of every level of swimmer from beginners to college-level swimmers and we welcome all. Coach Don will work 
-    with swimmers on their competitive journey through stroke development, improvement, and strength. Our team community is unsurpassed with members branching out to group triathlons and/or lake swims; national USMS and State MI Masters swimming meets;
-     swim meet road trips; community service; horse-farm bonfires and get-togethers. We have begun to welcome everyone back to the pool! <br>
+He has been with the group for almost 30 years and advances the health and wellness of all swimmers on the team. The workout group consists of every level of swimmer from beginners to college-level swimmers and we welcome all. Coach Don will work 
+with swimmers on their competitive journey through stroke development, improvement, and strength. Our team community is unsurpassed with members branching out to group triathlons and/or lake swims; national USMS and State MI Masters swimming meets;
+swim meet road trips; community service; horse-farm bonfires and get-togethers. We have begun to welcome everyone back to the pool! <br>
 <br>
-Fall, Winter, Spring<br>  
-Whitmore Lake High School Community Pool<br> 
-7430 Old Whitmore Lake Road<br>
-Whitmore Lake, MI 48189<br>  
-M-F 5:00-6:00AM; TuTh 6:00-7:00AM<br>
-<br>
-Summer<br>
-Georgetown Country Club (GTCC)<br> 
-1365 King George Blvd<br>
-Ann Arbor, MI 48108<br>
-M-F 5:30-7:00AM<br>"
+Our indoor location Whitmore Lake High School Pool's pump is broken and the pool will be down for about 2-3 weeks during repairs.
+Ann Arbor Masters Swimming has temporarily secured pool time at Dexter High School, 2200 N. Parker Rd. Dexter, MI 48130. 
+<br>Pool hours:
+<br>M, W, F, 4:30 - 5:30AM (The Dexter HS girls swim team uses the pool after us)
+<br>TU & TH 5:00 - 7:00AM
+"
+#<br>
+#Fall, Winter, Spring<br>  
+#Whitmore Lake High School Community Pool<br> 
+#7430 Old Whitmore Lake Road<br>
+#Whitmore Lake, MI 48189<br>  
+#M-F 5:00-6:00AM; TuTh 6:00-7:00AM<br>
+#<br>
+#Summer<br>
+#Georgetown Country Club (GTCC)<br> 
+#1365 King George Blvd<br>
+#Ann Arbor, MI 48108<br>
+#M-F 5:30-7:00AM<br>"
     section: about
 
   coach:
