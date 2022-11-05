@@ -21,7 +21,7 @@ email      : A2MastersSwimContactUs@umich.edu #this is also the email contact fo
 description: "Website for the Ann Arbor Masters Swimming Club"
 author     : Timothy C. Wright
 logo:     
-  path: assets/img/combined_logos3.png
+  path: assets/img/combined_logos4.jpg
   height: 100 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
